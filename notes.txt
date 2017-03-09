@@ -1,0 +1,1 @@
+Use `jupyter kernelspec install-self --user` to install virtualenv kernel for jupyter
